@@ -1,0 +1,10 @@
+#headerImage {
+    background-image: url('../img/header.png');
+    background-size: cover;
+    background-position: center center;
+    height: 30vh;
+    width: 100%;
+}
+textarea {
+    resize: none;
+}
