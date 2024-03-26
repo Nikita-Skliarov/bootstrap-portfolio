@@ -1,2 +1,1 @@
-Currently available via this link:
-**https://ns-my-portfolio.nl/**
+This is my old version of portfolio maded with Bootstrap framework, PHP and JS.
