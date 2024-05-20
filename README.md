@@ -2,6 +2,8 @@
 
 This is a simple portfolio website built using HTML/CSS, Bootstrap, JavaScript, PHP, and PHPMyAdmin with PDO.
 
+![image](https://github.com/Nikita-Skliarov/bootstrap-portfolio/assets/153517480/93c7c2aa-4fbc-41af-ad50-39c2412c466f)
+
 ## Features
 
 - **Responsive Design**: Built with Bootstrap to ensure compatibility with various devices.
